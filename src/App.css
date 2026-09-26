@@ -777,6 +777,7 @@ body {
   .hero-content.model-layout-2 h1 {
     max-width: 100%;
     font-size: clamp(1.6rem, 7vw, 2.4rem);
+    letter-spacing: 0.03em;
     line-height: 1.15;
     white-space: normal;
     overflow-wrap: anywhere;
